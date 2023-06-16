@@ -1,0 +1,17 @@
+C:\Users\MARY GRACE\source\repos\PayTime-Project\PayTime\bin\Debug\net6.0\PayTime.exe
+C:\Users\MARY GRACE\source\repos\PayTime-Project\PayTime\bin\Debug\net6.0\PayTime.deps.json
+C:\Users\MARY GRACE\source\repos\PayTime-Project\PayTime\bin\Debug\net6.0\PayTime.runtimeconfig.json
+C:\Users\MARY GRACE\source\repos\PayTime-Project\PayTime\bin\Debug\net6.0\PayTime.dll
+C:\Users\MARY GRACE\source\repos\PayTime-Project\PayTime\bin\Debug\net6.0\PayTime.pdb
+C:\Users\MARY GRACE\source\repos\PayTime-Project\PayTime\obj\Debug\net6.0\PayTime.csproj.AssemblyReference.cache
+C:\Users\MARY GRACE\source\repos\PayTime-Project\PayTime\obj\Debug\net6.0\PayTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARY GRACE\source\repos\PayTime-Project\PayTime\obj\Debug\net6.0\PayTime.AssemblyInfoInputs.cache
+C:\Users\MARY GRACE\source\repos\PayTime-Project\PayTime\obj\Debug\net6.0\PayTime.AssemblyInfo.cs
+C:\Users\MARY GRACE\source\repos\PayTime-Project\PayTime\obj\Debug\net6.0\PayTime.csproj.CoreCompileInputs.cache
+C:\Users\MARY GRACE\source\repos\PayTime-Project\PayTime\obj\Debug\net6.0\PayTime.dll
+C:\Users\MARY GRACE\source\repos\PayTime-Project\PayTime\obj\Debug\net6.0\refint\PayTime.dll
+C:\Users\MARY GRACE\source\repos\PayTime-Project\PayTime\obj\Debug\net6.0\PayTime.pdb
+C:\Users\MARY GRACE\source\repos\PayTime-Project\PayTime\obj\Debug\net6.0\PayTime.genruntimeconfig.cache
+C:\Users\MARY GRACE\source\repos\PayTime-Project\PayTime\obj\Debug\net6.0\ref\PayTime.dll
+C:\Users\MARY GRACE\source\repos\PayTime-Project\PayTime\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\MARY GRACE\source\repos\PayTime-Project\PayTime\obj\Debug\net6.0\PayTime.csproj.CopyComplete

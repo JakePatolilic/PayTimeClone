@@ -1,0 +1,41 @@
+[
+  {
+    "PayRollName": "ferry ship",
+    "PayDate": "0001-01-01T00:00:00",
+    "Employees": [
+      {
+        "Name": "Jake",
+        "Id": "1234",
+        "Salary": 737.5,
+        "WorkerType": 0,
+        "TimeIn": "08:00:00",
+        "TimeOut": "10:00:00",
+        "TotalTime": 2.0,
+        "CategoryMoney": [
+          262.5,
+          1000.0,
+          500.0,
+          5.5
+        ]
+      }
+    ],
+    "Categories": [
+      {
+        "CategoryName": "SS",
+        "Factor": 0,
+        "Percent": 10.5
+      },
+      {
+        "CategoryName": "Tax",
+        "Factor": 0,
+        "Percent": 40.0
+      },
+      {
+        "CategoryName": "Tax",
+        "Factor": 0,
+        "Percent": 20.0
+      }
+    ],
+    "TotalPay": 2500.0
+  }
+]
