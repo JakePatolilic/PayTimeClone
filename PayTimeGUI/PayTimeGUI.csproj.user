@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CategoryEntry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CategoryInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CategoryList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomizePayRoll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataSource.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeEntry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PayrollData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PayRollForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Introduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PayRollEntry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PayRollInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Paystub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
